@@ -1,5 +1,5 @@
 const c = function(){
-    return 'c';
+    return 'cc';
 }
 
 export default c;
