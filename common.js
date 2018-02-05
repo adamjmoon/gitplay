@@ -1,5 +1,5 @@
 const common = function(){
-  return 'zzzz';
+  return 'yyyy';
 }
 
 export default common;
